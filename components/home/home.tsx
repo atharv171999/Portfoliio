@@ -4,6 +4,7 @@ import Photo from '../../public/photoss.png'
 
 export default function Home(){
     return(
+      
         <section >
         <div className=" flex flex-col sm:flex-row  ">
           <div className=" relative sm:w-[65%] bg-[#4831d4] pt-20 sm:pb-[5.4rem] sm:pt-0  ">
